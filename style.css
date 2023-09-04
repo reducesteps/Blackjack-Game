@@ -1,0 +1,15 @@
+/* Blackjack Game CSS */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+#game-board {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+h1 {
+  text-align: center;
+}
