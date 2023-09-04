@@ -10,3 +10,5 @@ node_modules/
 *.log
 .git
 .git-credentials
+.git
+.git-credentials
